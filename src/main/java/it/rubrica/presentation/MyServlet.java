@@ -166,5 +166,5 @@ public class MyServlet extends HttpServlet {
 		rubricaEjb.deleteContatto(c);
 		out.println("CONTATTO ELIMINATO");
 	}
-
+//Servlet che utilizza il patter "fac" model per decidere
 }
